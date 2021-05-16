@@ -1,0 +1,29 @@
+@import '../../../styles/settings.scss';
+
+.component {
+  padding: $base-size;
+}
+
+.link {
+  color: inherit;
+}
+
+.cell_ready {
+  background: 'green';
+}
+
+h1 {
+  font-family: $font;
+}
+
+.root {
+  /*max-width: 350px;*/
+}
+
+.title {
+  font-size: 14px;
+}
+
+.pos {
+  margin-bottom: 12px;
+}

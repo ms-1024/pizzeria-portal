@@ -1,0 +1,26 @@
+@import '../../../styles/settings.scss';
+
+.component {
+  padding: $base-size;
+  margin: 25px;
+}
+
+.button {
+  display: block;
+  margin-Top: 16px;
+}
+
+.formControl {
+  margin: 2px;
+  min-width: 100px;
+}
+
+.menuBox {
+  margin: 20px;
+}
+
+.textField {
+  max-width: 100px;
+  margin: 25px;
+  margin-left: auto;
+}

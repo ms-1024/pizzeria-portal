@@ -1,0 +1,19 @@
+.navigation {
+  text-align: right;
+}
+
+nav {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+
+nav:last-child {
+  text-align: right;
+}
+
+.link {
+  color: inherit;
+}
